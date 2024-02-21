@@ -30,3 +30,9 @@ Add to Your Calendar: Open your preferred calendar application (such as Google C
 Islamic Calendar Ultimate is more than just a calendar; it's a gateway to staying connected with the Islamic faith and cultural heritage. Its development is driven by a commitment to inclusivity, accuracy, and user-friendliness. As we look to the future, we aim to expand our offerings to include a wide array of Islamic resources. Your support and sponsorship can help us realize these ambitions, making a significant impact on the lives of Muslims around the world.
 
 Join us in this journey to keep faith and tradition at the heart of our digital lives. Together, we can create a future where every Muslim has the tools to live a life enriched with the knowledge and practice of their religion.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
