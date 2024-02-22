@@ -2,8 +2,6 @@ BEGIN:VCALENDAR
 X-WR-CALNAME:Islamic Calendar Ultimate
 BEGIN:VEVENT
 SUMMARY:1 Muharram - Islamic New Year
-DTSTART;VALUE=DATE:20230719
-DTEND;VALUE=DATE:20230720
 DESCRIPTION:Description: This day marks the beginning of the month of Muha
  rram in the Islamic calendar.
 BEGIN:VALARM
@@ -21,8 +19,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:10 Muharram - Martyrdom of Imam Hussain (A.S.)
-DTSTART;VALUE=DATE:20230728
-DTEND;VALUE=DATE:20230729
 DESCRIPTION:Description: The martyrdom of Imam Hussain (A.S.)\, the grands
  on of Prophet Muhammad (S.A.W.)\, took place in the year 61 AH in Karbala\
  , Iraq.
@@ -43,8 +39,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:20 Muharram - Demise of Sakina bint Imam Hussain (A.S.)
-DTSTART;VALUE=DATE:20230807
-DTEND;VALUE=DATE:20230808
 DESCRIPTION:Description: The demise of Sakina bint Imam Hussain (A.S.)\, t
  he beloved daughter of Imam Hussain (A.S.)\, occurred in the year 61 AH in
   the prison of Damascus\, Syria.
@@ -68,8 +62,6 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:25 Muharram - Martyrdom of Imam Ali ibn Hussain Zain-ul-Abideen (A
  .S.)
-DTSTART;VALUE=DATE:20230812
-DTEND;VALUE=DATE:20230813
 DESCRIPTION:Description: Imam Ali ibn Hussain Zain-ul-Abideen (A.S.)\, the
   son of Imam Hussain (A.S.) and the great-grandson of Prophet Muhammad (S.
  A.W.)\, was martyred in the year 95 AH in Medina\, Saudi Arabia.
@@ -92,8 +84,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 Safar - First Day of Safar
-DTSTART;VALUE=DATE:20230817
-DTEND;VALUE=DATE:20230818
 DESCRIPTION:Description: This day marks the beginning of the month of Safa
  r in the Islamic calendar.
 BEGIN:VALARM
@@ -111,8 +101,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:7 Safar - Birth of Imam Musa al-Kazim (A.S.)
-DTSTART;VALUE=DATE:20230823
-DTEND;VALUE=DATE:20230824
 DESCRIPTION:Description: Imam Musa al-Kazim (A.S.)\, the seventh Imam of t
  he Shia Muslims and a descendant of Prophet Muhammad (S.A.W.)\, was born i
  n the year 128 AH.
@@ -133,8 +121,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:17 Safar - Martyrdom of Imam Ali ibn Musa al-Reza (A.S.)
-DTSTART;VALUE=DATE:20230902
-DTEND;VALUE=DATE:20230903
 DESCRIPTION:Description: Imam Ali ibn Musa al-Reza (A.S.)\, the eighth Ima
  m of the Shia Muslims and a descendant of Prophet Muhammad (S.A.W.)\, was 
  martyred in the year 203 AH in Mashhad\, Iran.
@@ -157,8 +143,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:20 Safar - Arbaeen of Imam Hussain (A.S.)
-DTSTART;VALUE=DATE:20230905
-DTEND;VALUE=DATE:20230906
 DESCRIPTION:Description: Arbaeen marks the 40th day after the martyrdom of
   Imam Hussain (A.S.)\, the grandson of Prophet Muhammad (S.A.W.)\, in the 
  year 61 AH in Karbala\, Iraq.
@@ -179,8 +163,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:24 Safar (or 16 Zilhaj) - Martyrdom of Zainab bint Ali (A.S.)
-DTSTART;VALUE=DATE:20230909
-DTEND;VALUE=DATE:20230910
 DESCRIPTION:Description: Zainab bint Ali (A.S.)\, the daughter of Imam Ali
   (A.S.) and the granddaughter of Prophet Muhammad (S.A.W.)\, is believed t
  o have been martyred in the year 62 AH.
@@ -203,8 +185,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:28 Safar - Martyrdom of Imam Hassan ibn Ali (A.S.)
-DTSTART;VALUE=DATE:20230913
-DTEND;VALUE=DATE:20230914
 DESCRIPTION:Description: Imam Hassan ibn Ali (A.S.)\, the second Imam of t
  he Shia Muslims and the grandson of Prophet Muhammad (S.A.W.)\, was martyr
  ed in the year 50 AH in Medina\, Saudi Arabia.
@@ -227,8 +207,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 Rabi-ul-Awwal - First Day of Rabi-ul-Awwal
-DTSTART;VALUE=DATE:20230916
-DTEND;VALUE=DATE:20230917
 DESCRIPTION:Description: This day marks the beginning of the month of Rabi
  -ul-Awwal in the Islamic calendar.
 BEGIN:VALARM
@@ -246,8 +224,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:8 Rabi-ul-Awwal - Martyrdom of Imam Hasan al-Askari (A.S.)
-DTSTART;VALUE=DATE:20230923
-DTEND;VALUE=DATE:20230924
 DESCRIPTION:Description: Imam Hasan al-Askari (A.S.)\, the eleventh Imam o
  f the Shia Muslims and a descendant of Prophet Muhammad (S.A.W.)\, was mar
  tyred in the year 260 AH in Samarra\, Iraq.
@@ -270,8 +246,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:12 Rabi-ul-Awwal - Birth of Holy Prophet Muhammad (S.A.W.S)
-DTSTART;VALUE=DATE:20230927
-DTEND;VALUE=DATE:20230928
 DESCRIPTION:Description: The birth of Prophet Muhammad (S.A.W.)\, the fina
  l messenger of Islam\, is celebrated on this day\, believed to be in the y
  ear 570 AD in Mecca\, Saudi Arabia.
@@ -294,8 +268,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:17 Rabi-ul-Awwal - Birth of Imam Jafar al-Sadiq (A.S.)
-DTSTART;VALUE=DATE:20231002
-DTEND;VALUE=DATE:20231003
 DESCRIPTION:Description: Imam Jafar al-Sadiq (A.S.)\, the sixth Imam of th
  e Shia Muslims and a descendant of Prophet Muhammad (S.A.W.)\, was born in
   the year 83 AH in Medina\, Saudi Arabia.
@@ -318,8 +290,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 Rabi al-Thani - First Day of Rabi al-Thani
-DTSTART;VALUE=DATE:20231016
-DTEND;VALUE=DATE:20231017
 DESCRIPTION:Description: This day marks the beginning of the month of Rabi
  -ul-Awwal in the Islamic calendar.
 BEGIN:VALARM
@@ -337,8 +307,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:10 Rabi al-Thani - Birth of Imam Hasan al-Askari (A.S.)
-DTSTART;VALUE=DATE:20231025
-DTEND;VALUE=DATE:20231026
 DESCRIPTION:Description: Imam Hasan al-Askari (A.S.)\, the eleventh Imam o
  f the Shia Muslims and a descendant of Prophet Muhammad (S.A.W.)\, was bor
  n on this day in the year 232 AH in Medina\, Saudi Arabia.
@@ -361,8 +329,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 Jamadi-ul-Awwal - First Day of Jamadi-ul-Awwal
-DTSTART;VALUE=DATE:20231115
-DTEND;VALUE=DATE:20231116
 DESCRIPTION:Description: This day marks the beginning of the month of Rabi
  -ul-Awwal in the Islamic calendar.
 BEGIN:VALARM
@@ -383,8 +349,6 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:15 Jamadi-ul-Awwal - Birth of Imam Ali ibn Hussain Zain-ul-Abideen
   (A.S.)
-DTSTART;VALUE=DATE:20231129
-DTEND;VALUE=DATE:20231130
 DESCRIPTION:Description: Imam Ali ibn Hussain Zain-ul-Abideen (A.S.)\, the
   fourth Imam of the Shia Muslims and a descendant of Prophet Muhammad (S.A
  .W.)\, was born on this day in the year 38 AH in Medina\, Saudi Arabia.
@@ -409,8 +373,6 @@ BEGIN:VEVENT
 SUMMARY:1 Jumada al-Thani - First Day of Jumada al-Thani- Description: Thi
  s day marks the beginning of the month of Jumada al-Thani in the Islamic c
  alendar.
-DTSTART;VALUE=DATE:20231214
-DTEND;VALUE=DATE:20231215
 DESCRIPTION:
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -429,8 +391,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 Jumada al-Thani - Demise of Lady Fatima Zahra (S.A.)
-DTSTART;VALUE=DATE:20231216
-DTEND;VALUE=DATE:20231217
 DESCRIPTION:Description: Lady Fatima Zahra (S.A.)\, the daughter of Prophe
  t Muhammad (S.A.W.) and the wife of Imam Ali (A.S.)\, passed away on this 
  day in the year 11 AH in Medina\, Saudi Arabia.
@@ -453,8 +413,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:20 Jumada al-Thani - Birth of Lady Fatima Zahra (S.A.)
-DTSTART;VALUE=DATE:20240102
-DTEND;VALUE=DATE:20240103
 DESCRIPTION:Description: Lady Fatima Zahra (S.A.)\, the beloved daughter o
  f Prophet Muhammad (S.A.W.) and an esteemed figure in Islam\, was born on 
  this day in the year 615 AD in Mecca\, Saudi Arabia.
@@ -478,8 +436,6 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 Rajab - Birth of Imam Muhammad al-Baqir (A.S.) & Lady Sakina bin
  t Imam Hussain (A.S.)
-DTSTART;VALUE=DATE:20240113
-DTEND;VALUE=DATE:20240114
 DESCRIPTION:Description: Imam Muhammad al-Baqir (A.S.)\, the fifth Imam of
   the Shia Muslims\, was born on this day in the year 57 AH in Medina\, Sau
  di Arabia. Lady Sakina\, the daughter of Imam Hussain (A.S.)\, is also com
@@ -505,8 +461,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 Rajab - Martyrdom of Imam Ali al-Naqi (A.S.)
-DTSTART;VALUE=DATE:20240115
-DTEND;VALUE=DATE:20240116
 DESCRIPTION:Description: Imam Ali al-Naqi (A.S.)\, the tenth Imam of the S
  hia Muslims\, was martyred on this day in the year 254 AH in Samarra\, Ira
  q.
@@ -527,8 +481,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:10 Rajab - Birth of Imam Muhammad al-Taqi (A.S.)
-DTSTART;VALUE=DATE:20240122
-DTEND;VALUE=DATE:20240123
 DESCRIPTION:Description: Imam Muhammad al-Taqi (A.S.)\, the ninth Imam of 
  the Shia Muslims\, was born on this day in the year 195 AH in Medina\, Sau
  di Arabia.
@@ -550,8 +502,6 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:13 Rajab - Birth of Commander of the Faithful\, Ali ibn Abi Talib 
  (A.S.)
-DTSTART;VALUE=DATE:20240125
-DTEND;VALUE=DATE:20240126
 DESCRIPTION:Description: Imam Ali ibn Abi Talib (A.S.)\, the first Imam of
   the Shia Muslims and the fourth Caliph of the Sunni Muslims\, was born on
   this day in the year 600 AD in Mecca\, Saudi Arabia.
@@ -574,8 +524,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:25 Rajab - Martyrdom of Imam Musa al-Kazim (A.S.)
-DTSTART;VALUE=DATE:20240206
-DTEND;VALUE=DATE:20240207
 DESCRIPTION:Description: Imam Musa al-Kazim (A.S.)\, the seventh Imam of t
  he Shia Muslims\, was martyred on this day in the year 183 AH in Baghdad\,
   Iraq.
@@ -597,8 +545,6 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:27 Rajab - Al Isra’ wal Mi’raj (The night journey and ascensio
  n)
-DTSTART;VALUE=DATE:20240208
-DTEND;VALUE=DATE:20240209
 DESCRIPTION:Description: This event commemorates the night journey and asc
  ension of Prophet Muhammad (S.A.W.) to the heavens\, which is believed to 
  have taken place on this day.
@@ -621,8 +567,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 Shaban - Birth of Lady Zainab bint Ali (A.S.)
-DTSTART;VALUE=DATE:20240211
-DTEND;VALUE=DATE:20240212
 DESCRIPTION:Description: Lady Zainab bint Ali (A.S.)\, the daughter of Ima
  m Ali (A.S.) and the granddaughter of Prophet Muhammad (S.A.W.)\, was born
   on this day in the year 626 AD in Medina\, Saudi Arabia.
@@ -645,8 +589,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3 Shaban - Birth of Imam Hussain ibn Ali (A.S.)
-DTSTART;VALUE=DATE:20240213
-DTEND;VALUE=DATE:20240214
 DESCRIPTION:Description: Imam Hussain ibn Ali (A.S.)\, the third Imam of t
  he Shia Muslims and the grandson of Prophet Muhammad (S.A.W.)\, was born o
  n this day in the year 626 AD in Medina\, Saudi Arabia.
@@ -669,8 +611,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:4 Shaban - Birth of Hazrat Abbas ibn Ali (A.S.)
-DTSTART;VALUE=DATE:20240214
-DTEND;VALUE=DATE:20240215
 DESCRIPTION:Description: Hazrat Abbas ibn Ali (A.S.)\, the son of Imam Ali
   (A.S.) and the brother of Imam Hussain (A.S.)\, was born on this day in t
  he year 647 AD in Medina\, Saudi Arabia.
@@ -693,8 +633,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:11 Shaban - Birth of Hazrat Ali Akbar ibn Hussain (A.S.)
-DTSTART;VALUE=DATE:20240221
-DTEND;VALUE=DATE:20240222
 DESCRIPTION:Description: Hazrat Ali Akbar ibn Hussain (A.S.)\, the son of 
  Imam Hussain (A.S.)\, was born on this day. He is remembered for his brave
  ry and resemblance to his grandfather\, Prophet Muhammad (S.A.W.).
@@ -717,8 +655,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:15 Shaban - Birth of Imam Mahdi (A.S.)
-DTSTART;VALUE=DATE:20240225
-DTEND;VALUE=DATE:20240226
 DESCRIPTION:Description: Imam Mahdi (A.S.)\, the twelfth and final Imam of
   the Shia Muslims\, was born on this day in the year 255 AH in Samarra\, I
  raq. This day is also observed as Shab-e-Barat\, a night of forgiveness an
@@ -742,8 +678,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 Ramadan - Ramadan begins
-DTSTART;VALUE=DATE:20240311
-DTEND;VALUE=DATE:20240312
 DESCRIPTION:Description: This day marks the beginning of the month of Rama
  dan in the Islamic calendar.
 BEGIN:VALARM
@@ -761,8 +695,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:8 Ramadan - Martyrdom of Hazrat Abu Talib (A.S.)
-DTSTART;VALUE=DATE:20240318
-DTEND;VALUE=DATE:20240319
 DESCRIPTION:Description: Hazrat Abu Talib (A.S.)\, the uncle and protector
   of Prophet Muhammad (S.A.W.)\, passed away on this day in the year 619 AD
   in Mecca\, Saudi Arabia.
@@ -783,8 +715,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:10 Ramadan - Demise of Hazrat Khadija-tul-Kubra (S.A.)
-DTSTART;VALUE=DATE:20240320
-DTEND;VALUE=DATE:20240321
 DESCRIPTION:Description: Hazrat Khadija-tul-Kubra (S.A.)\, the first wife 
  of Prophet Muhammad (S.A.W.) and the mother of the believers\, passed away
   on this day in the year 619 AD in Mecca\, Saudi Arabia.
@@ -807,8 +737,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:15 Ramadan - Birth of Imam Hassan ibn Ali (A.S.)
-DTSTART;VALUE=DATE:20240325
-DTEND;VALUE=DATE:20240326
 DESCRIPTION:Description: Imam Hassan ibn Ali (A.S.)\, the second Imam of t
  he Shia Muslims and the grandson of Prophet Muhammad (S.A.W.)\, was born o
  n this day in the year 625 AD in Medina\, Saudi Arabia.
@@ -831,8 +759,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:17 Ramadan - Demise of Sayyidah Aisha bint Abi Bakr (RA)
-DTSTART;VALUE=DATE:20240327
-DTEND;VALUE=DATE:20240328
 DESCRIPTION:Description: Sayyidah Aisha bint Abi Bakr (RA)\, the wife of P
  rophet Muhammad (S.A.W.) and a prominent figure in Islamic history\, passe
  d away on this day in the year 678 AD in Medina\, Saudi Arabia.
@@ -856,8 +782,6 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:18 Ramadan - Night of the Strike of Commander of the Faithful\, Al
  i (A.S.)
-DTSTART;VALUE=DATE:20240328
-DTEND;VALUE=DATE:20240329
 DESCRIPTION:Description: On this night\, Imam Ali ibn Abi Talib (A.S.)\, t
  he first Imam of the Shia Muslims and the fourth Caliph of the Sunni Musli
  ms\, was struck by a poisoned sword while praying in the mosque of Kufa\, 
@@ -883,8 +807,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:21 Ramadan - Martyrdom of Commander of the Faithful\, Ali (A.S.)
-DTSTART;VALUE=DATE:20240331
-DTEND;VALUE=DATE:20240401
 DESCRIPTION:Description: Imam Ali ibn Abi Talib (A.S.) succumbed to his in
  juries and was martyred on this day in the year 661 AD in Kufa\, Iraq.
 BEGIN:VALARM
@@ -904,8 +826,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:19\,21\,23\,25\,27 Ramadan - Nights of Qadr (Revelation of Quran)
-DTSTART;VALUE=DATE:20240329
-DTEND;VALUE=DATE:20240330
 DESCRIPTION:Description: These nights are observed as the Nights of Qadr\,
   during which the Quran was revealed to Prophet Muhammad (S.A.W.). They ar
  e considered the holiest nights in the Islamic calendar.
@@ -928,8 +848,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:19\,21\,23\,25\,27 Ramadan - Nights of Qadr (Revelation of Quran)
-DTSTART;VALUE=DATE:20240331
-DTEND;VALUE=DATE:20240401
 DESCRIPTION:Description: These nights are observed as the Nights of Qadr\,
   during which the Quran was revealed to Prophet Muhammad (S.A.W.). They ar
  e considered the holiest nights in the Islamic calendar.
@@ -952,8 +870,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:19\,21\,23\,25\,27 Ramadan - Nights of Qadr (Revelation of Quran)
-DTSTART;VALUE=DATE:20240402
-DTEND;VALUE=DATE:20240403
 DESCRIPTION:Description: These nights are observed as the Nights of Qadr\,
   during which the Quran was revealed to Prophet Muhammad (S.A.W.). They ar
  e considered the holiest nights in the Islamic calendar.
@@ -976,8 +892,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:19\,21\,23\,25\,27 Ramadan - Nights of Qadr (Revelation of Quran)
-DTSTART;VALUE=DATE:20240404
-DTEND;VALUE=DATE:20240405
 DESCRIPTION:Description: These nights are observed as the Nights of Qadr\,
   during which the Quran was revealed to Prophet Muhammad (S.A.W.). They ar
  e considered the holiest nights in the Islamic calendar.
@@ -1000,8 +914,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:19\,21\,23\,25\,27 Ramadan - Nights of Qadr (Revelation of Quran)
-DTSTART;VALUE=DATE:20240406
-DTEND;VALUE=DATE:20240407
 DESCRIPTION:Description: These nights are observed as the Nights of Qadr\,
   during which the Quran was revealed to Prophet Muhammad (S.A.W.). They ar
  e considered the holiest nights in the Islamic calendar.
@@ -1024,8 +936,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 Shawwal - Eid al-Fitr
-DTSTART;VALUE=DATE:20240410
-DTEND;VALUE=DATE:20240411
 DESCRIPTION:Description: Eid al-Fitr is the festival celebrated by Muslims
   worldwide to mark the end of the month of Ramadan and the beginning of Sh
  awwal.
@@ -1046,8 +956,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:15 Shawwal - Martyrdom of Imam Jafar al-Sadiq (A.S.)
-DTSTART;VALUE=DATE:20240424
-DTEND;VALUE=DATE:20240425
 DESCRIPTION:Description: Imam Jafar al-Sadiq (A.S.)\, the sixth Imam of th
  e Shia Muslims and a descendant of Prophet Muhammad (S.A.W.)\, was martyre
  d on this day in the year 148 AH in Medina\, Saudi Arabia.
@@ -1070,8 +978,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 Zeeqadh - Demise of Lady Fatima bint Asad
-DTSTART;VALUE=DATE:20240509
-DTEND;VALUE=DATE:20240510
 DESCRIPTION:Description: Lady Fatima bint Asad\, the mother of Imam Ali (A
  .S.) and a respected figure in Islamic history\, passed away on this day i
  n Medina\, Saudi Arabia.
@@ -1092,8 +998,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:11 Zeeqadh - Birth of Imam Ali ibn Musa al-Reza (A.S.)
-DTSTART;VALUE=DATE:20240519
-DTEND;VALUE=DATE:20240520
 DESCRIPTION:Description: Imam Ali ibn Musa al-Reza (A.S.)\, the eighth Ima
  m of the Shia Muslims and a descendant of Prophet Muhammad (S.A.W.)\, was 
  born on this day in the year 148 AH in Medina\, Saudi Arabia.
@@ -1116,8 +1020,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:29 Zeeqadh - Martyrdom of Imam Muhammad al-Taqi (A.S.)
-DTSTART;VALUE=DATE:20240606
-DTEND;VALUE=DATE:20240607
 DESCRIPTION:Description: Imam Muhammad al-Taqi (A.S.)\, the ninth Imam of 
  the Shia Muslims and a descendant of Prophet Muhammad (S.A.W.)\, was marty
  red on this day in the year 220 AH in Baghdad\, Iraq.
@@ -1141,8 +1043,6 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1 Dhu al-Hijja - Marriage of Lady Fatima Zahra (S.A.) & Commander 
  of the Faithful\, Ali (A.S.)
-DTSTART;VALUE=DATE:20240607
-DTEND;VALUE=DATE:20240608
 DESCRIPTION:Description: The marriage of Lady Fatima Zahra (S.A.)\, the da
  ughter of Prophet Muhammad (S.A.W.)\, and Imam Ali ibn Abi Talib (A.S.)\, 
  the first Imam of the Shia Muslims\, took place on this day.
@@ -1167,8 +1067,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:7 Dhu al-Hijja - Martyrdom of Imam Muhammad al-Baqir (A.S.)
-DTSTART;VALUE=DATE:20240613
-DTEND;VALUE=DATE:20240614
 DESCRIPTION:Description: Imam Muhammad al-Baqir (A.S.)\, the fifth Imam of
   the Shia Muslims and a descendant of Prophet Muhammad (S.A.W.)\, was mart
  yred on this day in the year 114 AH in Medina\, Saudi Arabia.
@@ -1191,8 +1089,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:8 Dhu al-Hijja - Hajj begins
-DTSTART;VALUE=DATE:20240614
-DTEND;VALUE=DATE:20240615
 DESCRIPTION:Description: The annual pilgrimage of Hajj\, one of the five p
  illars of Islam\, begins on this day in Mecca\, Saudi Arabia.
 BEGIN:VALARM
@@ -1212,8 +1108,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:9 Dhu al-Hijja - Martyrdom of Muslim ibn Aqil (A.S.)
-DTSTART;VALUE=DATE:20240615
-DTEND;VALUE=DATE:20240616
 DESCRIPTION:Description: Muslim ibn Aqil (A.S.)\, the cousin and emissary 
  of Imam Hussain (A.S.)\, was martyred on this day in the year 60 AH in Kuf
  a\, Iraq.
@@ -1234,8 +1128,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:10 Dhu al-Hijja - Eid al-Adha
-DTSTART;VALUE=DATE:20240616
-DTEND;VALUE=DATE:20240617
 DESCRIPTION:Description: Eid al-Adha\, also known as the Festival of Sacri
  fice\, is celebrated by Muslims worldwide on this day\, commemorating the 
  willingness of Prophet Ibrahim (A.S.) to sacrifice his son as an act of ob
@@ -1259,8 +1151,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:15 Dhu al-Hijja - Birth of Imam Ali al-Naqi (A.S.)
-DTSTART;VALUE=DATE:20240621
-DTEND;VALUE=DATE:20240622
 DESCRIPTION:Description: Imam Ali al-Naqi (A.S.)\, the tenth Imam of the S
  hia Muslims and a descendant of Prophet Muhammad (S.A.W.)\, was born on th
  is day in the year 212 AH in Medina\, Saudi Arabia.
@@ -1284,8 +1174,6 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:16 Dhu al-Hijja (or 24 Safar) - Martyrdom of Lady Zainab bint Ali 
  (A.S.)
-DTSTART;VALUE=DATE:20240622
-DTEND;VALUE=DATE:20240623
 DESCRIPTION:Description: Lady Zainab bint Ali (A.S.)\, the daughter of Ima
  m Ali (A.S.) and the granddaughter of Prophet Muhammad (S.A.W.)\, is belie
  ved to have been martyred on this day.
@@ -1308,8 +1196,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:18 Dhu al-Hijja - Eid al-Ghadir
-DTSTART;VALUE=DATE:20240624
-DTEND;VALUE=DATE:20240625
 DESCRIPTION:Description: Eid al-Ghadir is celebrated by Shia Muslims to co
  mmemorate the event of Ghadir Khumm\, where Prophet Muhammad (S.A.W.) decl
  ared Imam Ali (A.S.) as his successor.
@@ -1331,8 +1217,6 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:22 Dhu al-Hijja - Martyrdom of the Children of Hazrat Muslim ibn A
  qil (A.S.)
-DTSTART;VALUE=DATE:20240628
-DTEND;VALUE=DATE:20240629
 DESCRIPTION:Description: The children of Hazrat Muslim ibn Aqil (A.S.)\, w
  ho were martyred in the aftermath of their father’s death\, are remember
  ed on this day.
@@ -1355,8 +1239,6 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:24 Dhu al-Hijja - Eid al-Mubahela
-DTSTART;VALUE=DATE:20240630
-DTEND;VALUE=DATE:20240701
 DESCRIPTION:Description: Eid al-Mubahela commemorates the event of Mubahel
  a\, a public debate and invocation for divine curse to reveal the truth\, 
  which took place between Prophet Muhammad (S.A.W.) and a Christian delegat
