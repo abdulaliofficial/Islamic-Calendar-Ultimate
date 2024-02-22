@@ -107,13 +107,11 @@ for islamic_date, event_name in events.items():
 
        # Create an event
         event = Event()
-        summary_description = event_name.split(' - ', 1)  # Split only once
-        event.add('summary', islamic_date + ' - ' + summary_description[0])
+        event.add('summary', islamic_date + ' - ' + event_name.split(' - ')[0])
 
-        # Remove "Description:" from the description text
-        description_text = summary_description[1] if len(summary_description) > 1 else ''
-        description_text = description_text.replace('Description: ', '')
-
+        # Check for and remove "Description:" prefix from the description text
+        description_text = event_name.split(' - ')[1] if len(event_name.split(' - ')) > 1 else ''
+        description_text = description_text.replace('Description: ', '').strip()
         event.add('description', description_text)
 
         # Add 24-hour reminder
