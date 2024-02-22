@@ -2,13 +2,14 @@ from icalendar import Calendar, Event, Alarm
 from datetime import datetime, timedelta
 import hijri_converter
 
+# Initialize the calendar
 cal = Calendar()
 
 # Define the calendar name
 calendar_name = 'Islamic Calendar Ultimate'
+cal.add('X-WR-CALNAME', calendar_name)
 
-cal.add('X-WR-CALNAME', calendar_name)  # Add X-WR-CALNAME directly to the calendar
-
+# Mapping of Islamic months to their numerical values
 month_mapping = {
     'Muharram': 1,
     'Safar': 2,
@@ -131,7 +132,8 @@ for islamic_date, event_name in events.items():
 
         cal.add_component(event)
 
-# Write the calendar to a file
+
+
 with open('islamic_calendar_ultimate.ics', 'wb') as f:
     f.write(cal.to_ical())
 
