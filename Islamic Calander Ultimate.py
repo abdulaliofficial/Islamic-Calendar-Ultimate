@@ -103,9 +103,12 @@ for islamic_date, event_name in events.items():
 
         # Create an event
         event = Event()
-        event.add('summary', event_name)
+        summary_description = event_name.split(' - ', 1)  # Split only once
+        event.add('summary', islamic_date + ' - ' + summary_description[0])
+        event.add('description', summary_description[1] if len(summary_description) > 1 else '')
         event.add('dtstart', gregorian_date)
-        event.add('dtend', gregorian_date)
+        event.add('dtend', gregorian_date + timedelta(days=1))
+
 
         # Add 24-hour reminder
         alarm_24hr = Alarm()
