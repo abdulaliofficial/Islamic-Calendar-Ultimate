@@ -801,26 +801,7 @@ TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:21 Ramadan - Martyrdom of Commander of the Faithful\, Ali (A.S.)
-DESCRIPTION:Imam Ali ibn Abi Talib (A.S.) succumbed to his injuries and wa
- s martyred on this day in the year 661 AD in Kufa\, Iraq.
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Martyrdom of Commander of the Faithful\, Ali (A.S.) 
- - Description: Imam Ali ibn Abi Talib (A.S.) succumbed to his injuries and
-  was martyred on this day in the year 661 AD in Kufa\, Iraq.
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Martyrdom of Commander of the Faithful\, Ali (A.S.) 
- - Description: Imam Ali ibn Abi Talib (A.S.) succumbed to his injuries and
-  was martyred on this day in the year 661 AD in Kufa\, Iraq.
-TRIGGER:-PT12H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:19\,21\,23\,25\,27 Ramadan - Nights of Qadr (Revelation of Quran)
+SUMMARY:21 Ramadan - Nights of Qadr (Revelation of Quran)
 DESCRIPTION:These nights are observed as the Nights of Qadr\, during which
   the Quran was revealed to Prophet Muhammad (S.A.W.). They are considered 
  the holiest nights in the Islamic calendar.
@@ -842,7 +823,7 @@ TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:19\,21\,23\,25\,27 Ramadan - Nights of Qadr (Revelation of Quran)
+SUMMARY:19 Ramadan - Nights of Qadr (Revelation of Quran)
 DESCRIPTION:These nights are observed as the Nights of Qadr\, during which
   the Quran was revealed to Prophet Muhammad (S.A.W.). They are considered 
  the holiest nights in the Islamic calendar.
@@ -864,7 +845,7 @@ TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:19\,21\,23\,25\,27 Ramadan - Nights of Qadr (Revelation of Quran)
+SUMMARY:23 Ramadan - Nights of Qadr (Revelation of Quran)
 DESCRIPTION:These nights are observed as the Nights of Qadr\, during which
   the Quran was revealed to Prophet Muhammad (S.A.W.). They are considered 
  the holiest nights in the Islamic calendar.
@@ -886,7 +867,7 @@ TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:19\,21\,23\,25\,27 Ramadan - Nights of Qadr (Revelation of Quran)
+SUMMARY:25 Ramadan - Nights of Qadr (Revelation of Quran)
 DESCRIPTION:These nights are observed as the Nights of Qadr\, during which
   the Quran was revealed to Prophet Muhammad (S.A.W.). They are considered 
  the holiest nights in the Islamic calendar.
@@ -908,7 +889,7 @@ TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:19\,21\,23\,25\,27 Ramadan - Nights of Qadr (Revelation of Quran)
+SUMMARY:27 Ramadan - Nights of Qadr (Revelation of Quran)
 DESCRIPTION:These nights are observed as the Nights of Qadr\, during which
   the Quran was revealed to Prophet Muhammad (S.A.W.). They are considered 
  the holiest nights in the Islamic calendar.
