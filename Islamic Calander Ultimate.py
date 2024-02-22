@@ -108,7 +108,6 @@ for islamic_date, event_name in events.items():
        # Create an event
         event = Event()
         event.add('summary', islamic_date + ' - ' + event_name.split(' - ')[0])
-
         # Check for and remove "Description:" prefix from the description text
         description_text = event_name.split(' - ')[1] if len(event_name.split(' - ')) > 1 else ''
         description_text = description_text.replace('Description: ', '').strip()
@@ -132,6 +131,5 @@ for islamic_date, event_name in events.items():
 
         cal.add_component(event)
 
-# Write the calendar to a file
 with open('islamic_calendar_ultimate.ics', 'wb') as f:
     f.write(cal.to_ical())
