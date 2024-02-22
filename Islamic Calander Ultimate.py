@@ -132,8 +132,7 @@ for islamic_date, event_name in events.items():
 
         cal.add_component(event)
 
-
-
-with open('islamic_calendar_ultimate.ics', 'wb') as f:
+file_path = r'C:\Users\DELL E7400\Documents\GitHub\Islamic-Calendar-Ultimate\islamic_calendar_ultimate.ics'
+with open(file_path, 'wb') as f:
     f.write(cal.to_ical())
 
