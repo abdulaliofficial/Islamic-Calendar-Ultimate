@@ -1,834 +1,1343 @@
 BEGIN:VCALENDAR
 X-WR-CALNAME:Islamic Calendar Ultimate
 BEGIN:VEVENT
-SUMMARY:Islamic New Year
+SUMMARY:Islamic New Year - Description: This day marks the beginning of th
+ e month of Muharram in the Islamic calendar.
 DTSTART;VALUE=DATE:20230719
 DTEND;VALUE=DATE:20230719
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Islamic New Year
+DESCRIPTION:Reminder: Islamic New Year - Description: This day marks the b
+ eginning of the month of Muharram in the Islamic calendar.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Islamic New Year
+DESCRIPTION:Reminder: Islamic New Year - Description: This day marks the b
+ eginning of the month of Muharram in the Islamic calendar.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shahadat Imam Hussain (A.S.)
+SUMMARY:Martyrdom of Imam Hussain (A.S.) - Description: The martyrdom of I
+ mam Hussain (A.S.)\, the grandson of Prophet Muhammad (S.A.W.)\, took plac
+ e in the year 61 AH in Karbala\, Iraq.
 DTSTART;VALUE=DATE:20230728
 DTEND;VALUE=DATE:20230728
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shahadat Imam Hussain (A.S.)
+DESCRIPTION:Reminder: Martyrdom of Imam Hussain (A.S.) - Description: The 
+ martyrdom of Imam Hussain (A.S.)\, the grandson of Prophet Muhammad (S.A.W
+ .)\, took place in the year 61 AH in Karbala\, Iraq.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shahadat Imam Hussain (A.S.)
+DESCRIPTION:Reminder: Martyrdom of Imam Hussain (A.S.) - Description: The 
+ martyrdom of Imam Hussain (A.S.)\, the grandson of Prophet Muhammad (S.A.W
+ .)\, took place in the year 61 AH in Karbala\, Iraq.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wafaat Janabe Sakina Binte Imam Hussain (A.S.)
+SUMMARY:Demise of Sakina bint Imam Hussain (A.S.) - Description: The demis
+ e of Sakina bint Imam Hussain (A.S.)\, the beloved daughter of Imam Hussai
+ n (A.S.)\, occurred in the year 61 AH in the prison of Damascus\, Syria.
 DTSTART;VALUE=DATE:20230807
 DTEND;VALUE=DATE:20230807
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Wafaat Janabe Sakina Binte Imam Hussain (A.S.)
+DESCRIPTION:Reminder: Demise of Sakina bint Imam Hussain (A.S.) - Descript
+ ion: The demise of Sakina bint Imam Hussain (A.S.)\, the beloved daughter 
+ of Imam Hussain (A.S.)\, occurred in the year 61 AH in the prison of Damas
+ cus\, Syria.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Wafaat Janabe Sakina Binte Imam Hussain (A.S.)
+DESCRIPTION:Reminder: Demise of Sakina bint Imam Hussain (A.S.) - Descript
+ ion: The demise of Sakina bint Imam Hussain (A.S.)\, the beloved daughter 
+ of Imam Hussain (A.S.)\, occurred in the year 61 AH in the prison of Damas
+ cus\, Syria.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shahadat Imam Zain-ul-Abideen (A.S.)
+SUMMARY:Martyrdom of Imam Ali ibn Hussain Zain-ul-Abideen (A.S.) - Descrip
+ tion: Imam Ali ibn Hussain Zain-ul-Abideen (A.S.)\, the son of Imam Hussai
+ n (A.S.) and the great-grandson of Prophet Muhammad (S.A.W.)\, was martyre
+ d in the year 95 AH in Medina\, Saudi Arabia.
 DTSTART;VALUE=DATE:20230812
 DTEND;VALUE=DATE:20230812
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shahadat Imam Zain-ul-Abideen (A.S.)
+DESCRIPTION:Reminder: Martyrdom of Imam Ali ibn Hussain Zain-ul-Abideen (A
+ .S.) - Description: Imam Ali ibn Hussain Zain-ul-Abideen (A.S.)\, the son 
+ of Imam Hussain (A.S.) and the great-grandson of Prophet Muhammad (S.A.W.)
+ \, was martyred in the year 95 AH in Medina\, Saudi Arabia.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shahadat Imam Zain-ul-Abideen (A.S.)
+DESCRIPTION:Reminder: Martyrdom of Imam Ali ibn Hussain Zain-ul-Abideen (A
+ .S.) - Description: Imam Ali ibn Hussain Zain-ul-Abideen (A.S.)\, the son 
+ of Imam Hussain (A.S.) and the great-grandson of Prophet Muhammad (S.A.W.)
+ \, was martyred in the year 95 AH in Medina\, Saudi Arabia.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Viladat Imam Musa Kazim (A.S.)
+SUMMARY:First Day of Safar - Description: This day marks the beginning of 
+ the month of Safar in the Islamic calendar.
+DTSTART;VALUE=DATE:20230817
+DTEND;VALUE=DATE:20230817
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: First Day of Safar - Description: This day marks the
+  beginning of the month of Safar in the Islamic calendar.
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: First Day of Safar - Description: This day marks the
+  beginning of the month of Safar in the Islamic calendar.
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Birth of Imam Musa al-Kazim (A.S.) - Description: Imam Musa al-Kaz
+ im (A.S.)\, the seventh Imam of the Shia Muslims and a descendant of Proph
+ et Muhammad (S.A.W.)\, was born in the year 128 AH.
 DTSTART;VALUE=DATE:20230823
 DTEND;VALUE=DATE:20230823
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Viladat Imam Musa Kazim (A.S.)
+DESCRIPTION:Reminder: Birth of Imam Musa al-Kazim (A.S.) - Description: Im
+ am Musa al-Kazim (A.S.)\, the seventh Imam of the Shia Muslims and a desce
+ ndant of Prophet Muhammad (S.A.W.)\, was born in the year 128 AH.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Viladat Imam Musa Kazim (A.S.)
+DESCRIPTION:Reminder: Birth of Imam Musa al-Kazim (A.S.) - Description: Im
+ am Musa al-Kazim (A.S.)\, the seventh Imam of the Shia Muslims and a desce
+ ndant of Prophet Muhammad (S.A.W.)\, was born in the year 128 AH.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shahadat Imam Ali Reza (A.S.)
+SUMMARY:Martyrdom of Imam Ali ibn Musa al-Reza (A.S.) - Description: Imam 
+ Ali ibn Musa al-Reza (A.S.)\, the eighth Imam of the Shia Muslims and a de
+ scendant of Prophet Muhammad (S.A.W.)\, was martyred in the year 203 AH in
+  Mashhad\, Iran.
 DTSTART;VALUE=DATE:20230902
 DTEND;VALUE=DATE:20230902
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shahadat Imam Ali Reza (A.S.)
+DESCRIPTION:Reminder: Martyrdom of Imam Ali ibn Musa al-Reza (A.S.) - Desc
+ ription: Imam Ali ibn Musa al-Reza (A.S.)\, the eighth Imam of the Shia Mu
+ slims and a descendant of Prophet Muhammad (S.A.W.)\, was martyred in the 
+ year 203 AH in Mashhad\, Iran.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shahadat Imam Ali Reza (A.S.)
+DESCRIPTION:Reminder: Martyrdom of Imam Ali ibn Musa al-Reza (A.S.) - Desc
+ ription: Imam Ali ibn Musa al-Reza (A.S.)\, the eighth Imam of the Shia Mu
+ slims and a descendant of Prophet Muhammad (S.A.W.)\, was martyred in the 
+ year 203 AH in Mashhad\, Iran.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chehalum Imam Hussain (A.S.)
+SUMMARY:Arbaeen of Imam Hussain (A.S.) - Description: Arbaeen marks the 40
+ th day after the martyrdom of Imam Hussain (A.S.)\, the grandson of Prophe
+ t Muhammad (S.A.W.)\, in the year 61 AH in Karbala\, Iraq.
 DTSTART;VALUE=DATE:20230905
 DTEND;VALUE=DATE:20230905
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Chehalum Imam Hussain (A.S.)
+DESCRIPTION:Reminder: Arbaeen of Imam Hussain (A.S.) - Description: Arbaee
+ n marks the 40th day after the martyrdom of Imam Hussain (A.S.)\, the gran
+ dson of Prophet Muhammad (S.A.W.)\, in the year 61 AH in Karbala\, Iraq.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Chehalum Imam Hussain (A.S.)
+DESCRIPTION:Reminder: Arbaeen of Imam Hussain (A.S.) - Description: Arbaee
+ n marks the 40th day after the martyrdom of Imam Hussain (A.S.)\, the gran
+ dson of Prophet Muhammad (S.A.W.)\, in the year 61 AH in Karbala\, Iraq.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shahadat Janabe Zainab
+SUMMARY:Martyrdom of Zainab bint Ali (A.S.) - Description: Zainab bint Ali
+  (A.S.)\, the daughter of Imam Ali (A.S.) and the granddaughter of Prophet
+  Muhammad (S.A.W.)\, is believed to have been martyred in the year 62 AH.
 DTSTART;VALUE=DATE:20230909
 DTEND;VALUE=DATE:20230909
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shahadat Janabe Zainab
+DESCRIPTION:Reminder: Martyrdom of Zainab bint Ali (A.S.) - Description: Z
+ ainab bint Ali (A.S.)\, the daughter of Imam Ali (A.S.) and the granddaugh
+ ter of Prophet Muhammad (S.A.W.)\, is believed to have been martyred in th
+ e year 62 AH.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shahadat Janabe Zainab
+DESCRIPTION:Reminder: Martyrdom of Zainab bint Ali (A.S.) - Description: Z
+ ainab bint Ali (A.S.)\, the daughter of Imam Ali (A.S.) and the granddaugh
+ ter of Prophet Muhammad (S.A.W.)\, is believed to have been martyred in th
+ e year 62 AH.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shahadat Imam Hassan (A.S.)
+SUMMARY:Martyrdom of Imam Hassan ibn Ali (A.S.) - Description: Imam Hassan
+  ibn Ali (A.S.)\, the second Imam of the Shia Muslims and the grandson of 
+ Prophet Muhammad (S.A.W.)\, was martyred in the year 50 AH in Medina\, Sau
+ di Arabia.
 DTSTART;VALUE=DATE:20230913
 DTEND;VALUE=DATE:20230913
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shahadat Imam Hassan (A.S.)
+DESCRIPTION:Reminder: Martyrdom of Imam Hassan ibn Ali (A.S.) - Descriptio
+ n: Imam Hassan ibn Ali (A.S.)\, the second Imam of the Shia Muslims and th
+ e grandson of Prophet Muhammad (S.A.W.)\, was martyred in the year 50 AH i
+ n Medina\, Saudi Arabia.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shahadat Imam Hassan (A.S.)
+DESCRIPTION:Reminder: Martyrdom of Imam Hassan ibn Ali (A.S.) - Descriptio
+ n: Imam Hassan ibn Ali (A.S.)\, the second Imam of the Shia Muslims and th
+ e grandson of Prophet Muhammad (S.A.W.)\, was martyred in the year 50 AH i
+ n Medina\, Saudi Arabia.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shahadat Imam Hassan Askari (A.S.)
+SUMMARY:First Day of Rabi-ul-Awwal - Description: This day marks the begin
+ ning of the month of Rabi-ul-Awwal in the Islamic calendar.
+DTSTART;VALUE=DATE:20230916
+DTEND;VALUE=DATE:20230916
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: First Day of Rabi-ul-Awwal - Description: This day m
+ arks the beginning of the month of Rabi-ul-Awwal in the Islamic calendar.
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: First Day of Rabi-ul-Awwal - Description: This day m
+ arks the beginning of the month of Rabi-ul-Awwal in the Islamic calendar.
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Martyrdom of Imam Hasan al-Askari (A.S.) - Description: Imam Hasan
+  al-Askari (A.S.)\, the eleventh Imam of the Shia Muslims and a descendant
+  of Prophet Muhammad (S.A.W.)\, was martyred in the year 260 AH in Samarra
+ \, Iraq.
 DTSTART;VALUE=DATE:20230923
 DTEND;VALUE=DATE:20230923
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shahadat Imam Hassan Askari (A.S.)
+DESCRIPTION:Reminder: Martyrdom of Imam Hasan al-Askari (A.S.) - Descripti
+ on: Imam Hasan al-Askari (A.S.)\, the eleventh Imam of the Shia Muslims an
+ d a descendant of Prophet Muhammad (S.A.W.)\, was martyred in the year 260
+  AH in Samarra\, Iraq.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shahadat Imam Hassan Askari (A.S.)
+DESCRIPTION:Reminder: Martyrdom of Imam Hasan al-Askari (A.S.) - Descripti
+ on: Imam Hasan al-Askari (A.S.)\, the eleventh Imam of the Shia Muslims an
+ d a descendant of Prophet Muhammad (S.A.W.)\, was martyred in the year 260
+  AH in Samarra\, Iraq.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ide Nahum
-DTSTART;VALUE=DATE:20230924
-DTEND;VALUE=DATE:20230924
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Ide Nahum
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Ide Nahum
-TRIGGER:-PT12H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Viladat Holy Prophet (S.A.W.S)
+SUMMARY:Birth of Holy Prophet Muhammad (S.A.W.S) - Description: The birth 
+ of Prophet Muhammad (S.A.W.)\, the final messenger of Islam\, is celebrate
+ d on this day\, believed to be in the year 570 AD in Mecca\, Saudi Arabia.
 DTSTART;VALUE=DATE:20230927
 DTEND;VALUE=DATE:20230927
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Viladat Holy Prophet (S.A.W.S)
+DESCRIPTION:Reminder: Birth of Holy Prophet Muhammad (S.A.W.S) - Descripti
+ on: The birth of Prophet Muhammad (S.A.W.)\, the final messenger of Islam\
+ , is celebrated on this day\, believed to be in the year 570 AD in Mecca\,
+  Saudi Arabia.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Viladat Holy Prophet (S.A.W.S)
+DESCRIPTION:Reminder: Birth of Holy Prophet Muhammad (S.A.W.S) - Descripti
+ on: The birth of Prophet Muhammad (S.A.W.)\, the final messenger of Islam\
+ , is celebrated on this day\, believed to be in the year 570 AD in Mecca\,
+  Saudi Arabia.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Viladat Imam Jafar-e-Sadiq (A.S.)
+SUMMARY:Birth of Imam Jafar al-Sadiq (A.S.) - Description: Imam Jafar al-S
+ adiq (A.S.)\, the sixth Imam of the Shia Muslims and a descendant of Proph
+ et Muhammad (S.A.W.)\, was born in the year 83 AH in Medina\, Saudi Arabia
+ .
 DTSTART;VALUE=DATE:20231002
 DTEND;VALUE=DATE:20231002
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Viladat Imam Jafar-e-Sadiq (A.S.)
+DESCRIPTION:Reminder: Birth of Imam Jafar al-Sadiq (A.S.) - Description: I
+ mam Jafar al-Sadiq (A.S.)\, the sixth Imam of the Shia Muslims and a desce
+ ndant of Prophet Muhammad (S.A.W.)\, was born in the year 83 AH in Medina\
+ , Saudi Arabia.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Viladat Imam Jafar-e-Sadiq (A.S.)
+DESCRIPTION:Reminder: Birth of Imam Jafar al-Sadiq (A.S.) - Description: I
+ mam Jafar al-Sadiq (A.S.)\, the sixth Imam of the Shia Muslims and a desce
+ ndant of Prophet Muhammad (S.A.W.)\, was born in the year 83 AH in Medina\
+ , Saudi Arabia.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Viladat Imam Hassan Askari (A.S.)
+SUMMARY:First Day of Rabi al-Thani - Description: This day marks the begin
+ ning of the month of Rabi-ul-Awwal in the Islamic calendar.
+DTSTART;VALUE=DATE:20231016
+DTEND;VALUE=DATE:20231016
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: First Day of Rabi al-Thani - Description: This day m
+ arks the beginning of the month of Rabi-ul-Awwal in the Islamic calendar.
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: First Day of Rabi al-Thani - Description: This day m
+ arks the beginning of the month of Rabi-ul-Awwal in the Islamic calendar.
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Birth of Imam Hasan al-Askari (A.S.) - Description: Imam Hasan al-
+ Askari (A.S.)\, the eleventh Imam of the Shia Muslims and a descendant of 
+ Prophet Muhammad (S.A.W.)\, was born on this day in the year 232 AH in Med
+ ina\, Saudi Arabia.
 DTSTART;VALUE=DATE:20231025
 DTEND;VALUE=DATE:20231025
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Viladat Imam Hassan Askari (A.S.)
+DESCRIPTION:Reminder: Birth of Imam Hasan al-Askari (A.S.) - Description: 
+ Imam Hasan al-Askari (A.S.)\, the eleventh Imam of the Shia Muslims and a 
+ descendant of Prophet Muhammad (S.A.W.)\, was born on this day in the year
+  232 AH in Medina\, Saudi Arabia.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Viladat Imam Hassan Askari (A.S.)
+DESCRIPTION:Reminder: Birth of Imam Hasan al-Askari (A.S.) - Description: 
+ Imam Hasan al-Askari (A.S.)\, the eleventh Imam of the Shia Muslims and a 
+ descendant of Prophet Muhammad (S.A.W.)\, was born on this day in the year
+  232 AH in Medina\, Saudi Arabia.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Viladat Imam Zain-ul-Abideen (A.S.)
+SUMMARY:First Day of Jamadi-ul-Awwal - Description: This day marks the beg
+ inning of the month of Rabi-ul-Awwal in the Islamic calendar.
+DTSTART;VALUE=DATE:20231115
+DTEND;VALUE=DATE:20231115
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: First Day of Jamadi-ul-Awwal - Description: This day
+  marks the beginning of the month of Rabi-ul-Awwal in the Islamic calendar
+ .
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: First Day of Jamadi-ul-Awwal - Description: This day
+  marks the beginning of the month of Rabi-ul-Awwal in the Islamic calendar
+ .
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Birth of Imam Ali ibn Hussain Zain-ul-Abideen (A.S.) - Description
+ : Imam Ali ibn Hussain Zain-ul-Abideen (A.S.)\, the fourth Imam of the Shi
+ a Muslims and a descendant of Prophet Muhammad (S.A.W.)\, was born on this
+  day in the year 38 AH in Medina\, Saudi Arabia.
 DTSTART;VALUE=DATE:20231129
 DTEND;VALUE=DATE:20231129
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Viladat Imam Zain-ul-Abideen (A.S.)
+DESCRIPTION:Reminder: Birth of Imam Ali ibn Hussain Zain-ul-Abideen (A.S.)
+  - Description: Imam Ali ibn Hussain Zain-ul-Abideen (A.S.)\, the fourth I
+ mam of the Shia Muslims and a descendant of Prophet Muhammad (S.A.W.)\, wa
+ s born on this day in the year 38 AH in Medina\, Saudi Arabia.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Viladat Imam Zain-ul-Abideen (A.S.)
+DESCRIPTION:Reminder: Birth of Imam Ali ibn Hussain Zain-ul-Abideen (A.S.)
+  - Description: Imam Ali ibn Hussain Zain-ul-Abideen (A.S.)\, the fourth I
+ mam of the Shia Muslims and a descendant of Prophet Muhammad (S.A.W.)\, wa
+ s born on this day in the year 38 AH in Medina\, Saudi Arabia.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wafaat Janabe Fatima Zehra (S.A.)
+SUMMARY:First Day of Jumada al-Thani- Description: This day marks the begi
+ nning of the month of Jumada al-Thani in the Islamic calendar.
+DTSTART;VALUE=DATE:20231214
+DTEND;VALUE=DATE:20231214
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: First Day of Jumada al-Thani- Description: This day 
+ marks the beginning of the month of Jumada al-Thani in the Islamic calenda
+ r.
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: First Day of Jumada al-Thani- Description: This day 
+ marks the beginning of the month of Jumada al-Thani in the Islamic calenda
+ r.
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Demise of Lady Fatima Zahra (S.A.) - Description: Lady Fatima Zahr
+ a (S.A.)\, the daughter of Prophet Muhammad (S.A.W.) and the wife of Imam 
+ Ali (A.S.)\, passed away on this day in the year 11 AH in Medina\, Saudi A
+ rabia.
 DTSTART;VALUE=DATE:20231216
 DTEND;VALUE=DATE:20231216
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Wafaat Janabe Fatima Zehra (S.A.)
+DESCRIPTION:Reminder: Demise of Lady Fatima Zahra (S.A.) - Description: La
+ dy Fatima Zahra (S.A.)\, the daughter of Prophet Muhammad (S.A.W.) and the
+  wife of Imam Ali (A.S.)\, passed away on this day in the year 11 AH in Me
+ dina\, Saudi Arabia.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Wafaat Janabe Fatima Zehra (S.A.)
+DESCRIPTION:Reminder: Demise of Lady Fatima Zahra (S.A.) - Description: La
+ dy Fatima Zahra (S.A.)\, the daughter of Prophet Muhammad (S.A.W.) and the
+  wife of Imam Ali (A.S.)\, passed away on this day in the year 11 AH in Me
+ dina\, Saudi Arabia.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Viladat Janabe Fatima Zehra (S.A.)
+SUMMARY:Birth of Lady Fatima Zahra (S.A.) - Description: Lady Fatima Zahra
+  (S.A.)\, the beloved daughter of Prophet Muhammad (S.A.W.) and an esteeme
+ d figure in Islam\, was born on this day in the year 615 AD in Mecca\, Sau
+ di Arabia.
 DTSTART;VALUE=DATE:20240102
 DTEND;VALUE=DATE:20240102
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Viladat Janabe Fatima Zehra (S.A.)
+DESCRIPTION:Reminder: Birth of Lady Fatima Zahra (S.A.) - Description: Lad
+ y Fatima Zahra (S.A.)\, the beloved daughter of Prophet Muhammad (S.A.W.) 
+ and an esteemed figure in Islam\, was born on this day in the year 615 AD 
+ in Mecca\, Saudi Arabia.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Viladat Janabe Fatima Zehra (S.A.)
+DESCRIPTION:Reminder: Birth of Lady Fatima Zahra (S.A.) - Description: Lad
+ y Fatima Zahra (S.A.)\, the beloved daughter of Prophet Muhammad (S.A.W.) 
+ and an esteemed figure in Islam\, was born on this day in the year 615 AD 
+ in Mecca\, Saudi Arabia.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Viladat Imam Mohammed Baqir (A.S.) & Janabe Sakina Binte Imam Husa
- in (A.S.)
+SUMMARY:Birth of Imam Muhammad al-Baqir (A.S.) & Lady Sakina bint Imam Hus
+ sain (A.S.) - Description: Imam Muhammad al-Baqir (A.S.)\, the fifth Imam 
+ of the Shia Muslims\, was born on this day in the year 57 AH in Medina\, S
+ audi Arabia. Lady Sakina\, the daughter of Imam Hussain (A.S.)\, is also c
+ ommemorated on this day.
 DTSTART;VALUE=DATE:20240113
 DTEND;VALUE=DATE:20240113
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Viladat Imam Mohammed Baqir (A.S.) & Janabe Sakina B
- inte Imam Husain (A.S.)
+DESCRIPTION:Reminder: Birth of Imam Muhammad al-Baqir (A.S.) & Lady Sakina
+  bint Imam Hussain (A.S.) - Description: Imam Muhammad al-Baqir (A.S.)\, t
+ he fifth Imam of the Shia Muslims\, was born on this day in the year 57 AH
+  in Medina\, Saudi Arabia. Lady Sakina\, the daughter of Imam Hussain (A.S
+ .)\, is also commemorated on this day.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Viladat Imam Mohammed Baqir (A.S.) & Janabe Sakina B
- inte Imam Husain (A.S.)
+DESCRIPTION:Reminder: Birth of Imam Muhammad al-Baqir (A.S.) & Lady Sakina
+  bint Imam Hussain (A.S.) - Description: Imam Muhammad al-Baqir (A.S.)\, t
+ he fifth Imam of the Shia Muslims\, was born on this day in the year 57 AH
+  in Medina\, Saudi Arabia. Lady Sakina\, the daughter of Imam Hussain (A.S
+ .)\, is also commemorated on this day.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shahadat Imam Ali Naqi (A.S.)
+SUMMARY:Martyrdom of Imam Ali al-Naqi (A.S.) - Description: Imam Ali al-Na
+ qi (A.S.)\, the tenth Imam of the Shia Muslims\, was martyred on this day 
+ in the year 254 AH in Samarra\, Iraq.
 DTSTART;VALUE=DATE:20240115
 DTEND;VALUE=DATE:20240115
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shahadat Imam Ali Naqi (A.S.)
+DESCRIPTION:Reminder: Martyrdom of Imam Ali al-Naqi (A.S.) - Description: 
+ Imam Ali al-Naqi (A.S.)\, the tenth Imam of the Shia Muslims\, was martyre
+ d on this day in the year 254 AH in Samarra\, Iraq.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shahadat Imam Ali Naqi (A.S.)
+DESCRIPTION:Reminder: Martyrdom of Imam Ali al-Naqi (A.S.) - Description: 
+ Imam Ali al-Naqi (A.S.)\, the tenth Imam of the Shia Muslims\, was martyre
+ d on this day in the year 254 AH in Samarra\, Iraq.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Viladat Imam Mohammed Taqi 24(A.S.)
+SUMMARY:Birth of Imam Muhammad al-Taqi (A.S.) - Description: Imam Muhammad
+  al-Taqi (A.S.)\, the ninth Imam of the Shia Muslims\, was born on this da
+ y in the year 195 AH in Medina\, Saudi Arabia.
 DTSTART;VALUE=DATE:20240122
 DTEND;VALUE=DATE:20240122
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Viladat Imam Mohammed Taqi 24(A.S.)
+DESCRIPTION:Reminder: Birth of Imam Muhammad al-Taqi (A.S.) - Description:
+  Imam Muhammad al-Taqi (A.S.)\, the ninth Imam of the Shia Muslims\, was b
+ orn on this day in the year 195 AH in Medina\, Saudi Arabia.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Viladat Imam Mohammed Taqi 24(A.S.)
+DESCRIPTION:Reminder: Birth of Imam Muhammad al-Taqi (A.S.) - Description:
+  Imam Muhammad al-Taqi (A.S.)\, the ninth Imam of the Shia Muslims\, was b
+ orn on this day in the year 195 AH in Medina\, Saudi Arabia.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Viladat Amirul Momineen Ali (A.S.)
+SUMMARY:Birth of Commander of the Faithful\, Ali ibn Abi Talib (A.S.) - De
+ scription: Imam Ali ibn Abi Talib (A.S.)\, the first Imam of the Shia Musl
+ ims and the fourth Caliph of the Sunni Muslims\, was born on this day in t
+ he year 600 AD in Mecca\, Saudi Arabia.
 DTSTART;VALUE=DATE:20240125
 DTEND;VALUE=DATE:20240125
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Viladat Amirul Momineen Ali (A.S.)
+DESCRIPTION:Reminder: Birth of Commander of the Faithful\, Ali ibn Abi Tal
+ ib (A.S.) - Description: Imam Ali ibn Abi Talib (A.S.)\, the first Imam of
+  the Shia Muslims and the fourth Caliph of the Sunni Muslims\, was born on
+  this day in the year 600 AD in Mecca\, Saudi Arabia.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Viladat Amirul Momineen Ali (A.S.)
+DESCRIPTION:Reminder: Birth of Commander of the Faithful\, Ali ibn Abi Tal
+ ib (A.S.) - Description: Imam Ali ibn Abi Talib (A.S.)\, the first Imam of
+  the Shia Muslims and the fourth Caliph of the Sunni Muslims\, was born on
+  this day in the year 600 AD in Mecca\, Saudi Arabia.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shahadat Imam Musa Kazim (A.S.)
+SUMMARY:Martyrdom of Imam Musa al-Kazim (A.S.) - Description: Imam Musa al
+ -Kazim (A.S.)\, the seventh Imam of the Shia Muslims\, was martyred on thi
+ s day in the year 183 AH in Baghdad\, Iraq.
 DTSTART;VALUE=DATE:20240206
 DTEND;VALUE=DATE:20240206
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shahadat Imam Musa Kazim (A.S.)
+DESCRIPTION:Reminder: Martyrdom of Imam Musa al-Kazim (A.S.) - Description
+ : Imam Musa al-Kazim (A.S.)\, the seventh Imam of the Shia Muslims\, was m
+ artyred on this day in the year 183 AH in Baghdad\, Iraq.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shahadat Imam Musa Kazim (A.S.)
+DESCRIPTION:Reminder: Martyrdom of Imam Musa al-Kazim (A.S.) - Description
+ : Imam Musa al-Kazim (A.S.)\, the seventh Imam of the Shia Muslims\, was m
+ artyred on this day in the year 183 AH in Baghdad\, Iraq.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Al Isra’ wal Mi’raj (The night journey and ascension)
+SUMMARY:Al Isra’ wal Mi’raj (The night journey and ascension) - Descri
+ ption: This event commemorates the night journey and ascension of Prophet 
+ Muhammad (S.A.W.) to the heavens\, which is believed to have taken place o
+ n this day.
 DTSTART;VALUE=DATE:20240208
 DTEND;VALUE=DATE:20240208
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Al Isra’ wal Mi’raj (The night journey and ascen
- sion)
+ sion) - Description: This event commemorates the night journey and ascensi
+ on of Prophet Muhammad (S.A.W.) to the heavens\, which is believed to have
+  taken place on this day.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder: Al Isra’ wal Mi’raj (The night journey and ascen
- sion)
+ sion) - Description: This event commemorates the night journey and ascensi
+ on of Prophet Muhammad (S.A.W.) to the heavens\, which is believed to have
+  taken place on this day.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Viladat Janabe Zainab (A.S.)
+SUMMARY:Birth of Lady Zainab bint Ali (A.S.) - Description: Lady Zainab bi
+ nt Ali (A.S.)\, the daughter of Imam Ali (A.S.) and the granddaughter of P
+ rophet Muhammad (S.A.W.)\, was born on this day in the year 626 AD in Medi
+ na\, Saudi Arabia.
 DTSTART;VALUE=DATE:20240211
 DTEND;VALUE=DATE:20240211
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Viladat Janabe Zainab (A.S.)
+DESCRIPTION:Reminder: Birth of Lady Zainab bint Ali (A.S.) - Description: 
+ Lady Zainab bint Ali (A.S.)\, the daughter of Imam Ali (A.S.) and the gran
+ ddaughter of Prophet Muhammad (S.A.W.)\, was born on this day in the year 
+ 626 AD in Medina\, Saudi Arabia.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Viladat Janabe Zainab (A.S.)
+DESCRIPTION:Reminder: Birth of Lady Zainab bint Ali (A.S.) - Description: 
+ Lady Zainab bint Ali (A.S.)\, the daughter of Imam Ali (A.S.) and the gran
+ ddaughter of Prophet Muhammad (S.A.W.)\, was born on this day in the year 
+ 626 AD in Medina\, Saudi Arabia.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Viladat Imam Hussain (A.S.)
+SUMMARY:Birth of Imam Hussain ibn Ali (A.S.) - Description: Imam Hussain i
+ bn Ali (A.S.)\, the third Imam of the Shia Muslims and the grandson of Pro
+ phet Muhammad (S.A.W.)\, was born on this day in the year 626 AD in Medina
+ \, Saudi Arabia.
 DTSTART;VALUE=DATE:20240213
 DTEND;VALUE=DATE:20240213
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Viladat Imam Hussain (A.S.)
+DESCRIPTION:Reminder: Birth of Imam Hussain ibn Ali (A.S.) - Description: 
+ Imam Hussain ibn Ali (A.S.)\, the third Imam of the Shia Muslims and the g
+ randson of Prophet Muhammad (S.A.W.)\, was born on this day in the year 62
+ 6 AD in Medina\, Saudi Arabia.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Viladat Imam Hussain (A.S.)
+DESCRIPTION:Reminder: Birth of Imam Hussain ibn Ali (A.S.) - Description: 
+ Imam Hussain ibn Ali (A.S.)\, the third Imam of the Shia Muslims and the g
+ randson of Prophet Muhammad (S.A.W.)\, was born on this day in the year 62
+ 6 AD in Medina\, Saudi Arabia.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Viladat Hazrat Abbas ibne Amirul Momineen Ali (A.S.)
+SUMMARY:Birth of Hazrat Abbas ibn Ali (A.S.) - Description: Hazrat Abbas i
+ bn Ali (A.S.)\, the son of Imam Ali (A.S.) and the brother of Imam Hussain
+  (A.S.)\, was born on this day in the year 647 AD in Medina\, Saudi Arabia
+ .
 DTSTART;VALUE=DATE:20240214
 DTEND;VALUE=DATE:20240214
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Viladat Hazrat Abbas ibne Amirul Momineen Ali (A.S.)
+DESCRIPTION:Reminder: Birth of Hazrat Abbas ibn Ali (A.S.) - Description: 
+ Hazrat Abbas ibn Ali (A.S.)\, the son of Imam Ali (A.S.) and the brother o
+ f Imam Hussain (A.S.)\, was born on this day in the year 647 AD in Medina\
+ , Saudi Arabia.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Viladat Hazrat Abbas ibne Amirul Momineen Ali (A.S.)
+DESCRIPTION:Reminder: Birth of Hazrat Abbas ibn Ali (A.S.) - Description: 
+ Hazrat Abbas ibn Ali (A.S.)\, the son of Imam Ali (A.S.) and the brother o
+ f Imam Hussain (A.S.)\, was born on this day in the year 647 AD in Medina\
+ , Saudi Arabia.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Viladat Hazrat Ali Akbar ibne Imam Hussain (A.S.)
+SUMMARY:Birth of Hazrat Ali Akbar ibn Hussain (A.S.) - Description: Hazrat
+  Ali Akbar ibn Hussain (A.S.)\, the son of Imam Hussain (A.S.)\, was born 
+ on this day. He is remembered for his bravery and resemblance to his grand
+ father\, Prophet Muhammad (S.A.W.).
 DTSTART;VALUE=DATE:20240221
 DTEND;VALUE=DATE:20240221
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Viladat Hazrat Ali Akbar ibne Imam Hussain (A.S.)
+DESCRIPTION:Reminder: Birth of Hazrat Ali Akbar ibn Hussain (A.S.) - Descr
+ iption: Hazrat Ali Akbar ibn Hussain (A.S.)\, the son of Imam Hussain (A.S
+ .)\, was born on this day. He is remembered for his bravery and resemblanc
+ e to his grandfather\, Prophet Muhammad (S.A.W.).
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Viladat Hazrat Ali Akbar ibne Imam Hussain (A.S.)
+DESCRIPTION:Reminder: Birth of Hazrat Ali Akbar ibn Hussain (A.S.) - Descr
+ iption: Hazrat Ali Akbar ibn Hussain (A.S.)\, the son of Imam Hussain (A.S
+ .)\, was born on this day. He is remembered for his bravery and resemblanc
+ e to his grandfather\, Prophet Muhammad (S.A.W.).
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shab-e-Barat
+SUMMARY:Birth of Imam Mahdi (A.S.) - Description: Imam Mahdi (A.S.)\, the 
+ twelfth and final Imam of the Shia Muslims\, was born on this day in the y
+ ear 255 AH in Samarra\, Iraq. This day is also observed as Shab-e-Barat\, 
+ a night of forgiveness and prayers in Islamic tradition.
 DTSTART;VALUE=DATE:20240225
 DTEND;VALUE=DATE:20240225
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shab-e-Barat
+DESCRIPTION:Reminder: Birth of Imam Mahdi (A.S.) - Description: Imam Mahdi
+  (A.S.)\, the twelfth and final Imam of the Shia Muslims\, was born on thi
+ s day in the year 255 AH in Samarra\, Iraq. This day is also observed as S
+ hab-e-Barat\, a night of forgiveness and prayers in Islamic tradition.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shab-e-Barat
+DESCRIPTION:Reminder: Birth of Imam Mahdi (A.S.) - Description: Imam Mahdi
+  (A.S.)\, the twelfth and final Imam of the Shia Muslims\, was born on thi
+ s day in the year 255 AH in Samarra\, Iraq. This day is also observed as S
+ hab-e-Barat\, a night of forgiveness and prayers in Islamic tradition.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ramadan begins
+SUMMARY:Ramadan begins - Description: This day marks the beginning of the 
+ month of Ramadan in the Islamic calendar.
 DTSTART;VALUE=DATE:20240311
 DTEND;VALUE=DATE:20240311
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Ramadan begins
+DESCRIPTION:Reminder: Ramadan begins - Description: This day marks the beg
+ inning of the month of Ramadan in the Islamic calendar.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Ramadan begins
+DESCRIPTION:Reminder: Ramadan begins - Description: This day marks the beg
+ inning of the month of Ramadan in the Islamic calendar.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shahadat Hazrat Abu Talib (A.S.)
+SUMMARY:Martyrdom of Hazrat Abu Talib (A.S.) - Description: Hazrat Abu Tal
+ ib (A.S.)\, the uncle and protector of Prophet Muhammad (S.A.W.)\, passed 
+ away on this day in the year 619 AD in Mecca\, Saudi Arabia.
 DTSTART;VALUE=DATE:20240318
 DTEND;VALUE=DATE:20240318
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shahadat Hazrat Abu Talib (A.S.)
+DESCRIPTION:Reminder: Martyrdom of Hazrat Abu Talib (A.S.) - Description: 
+ Hazrat Abu Talib (A.S.)\, the uncle and protector of Prophet Muhammad (S.A
+ .W.)\, passed away on this day in the year 619 AD in Mecca\, Saudi Arabia.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shahadat Hazrat Abu Talib (A.S.)
+DESCRIPTION:Reminder: Martyrdom of Hazrat Abu Talib (A.S.) - Description: 
+ Hazrat Abu Talib (A.S.)\, the uncle and protector of Prophet Muhammad (S.A
+ .W.)\, passed away on this day in the year 619 AD in Mecca\, Saudi Arabia.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wafaat Hazrat Khadija-tul-Kubra (S.A.)
+SUMMARY:Demise of Hazrat Khadija-tul-Kubra (S.A.) - Description: Hazrat Kh
+ adija-tul-Kubra (S.A.)\, the first wife of Prophet Muhammad (S.A.W.) and t
+ he mother of the believers\, passed away on this day in the year 619 AD in
+  Mecca\, Saudi Arabia.
 DTSTART;VALUE=DATE:20240320
 DTEND;VALUE=DATE:20240320
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Wafaat Hazrat Khadija-tul-Kubra (S.A.)
+DESCRIPTION:Reminder: Demise of Hazrat Khadija-tul-Kubra (S.A.) - Descript
+ ion: Hazrat Khadija-tul-Kubra (S.A.)\, the first wife of Prophet Muhammad 
+ (S.A.W.) and the mother of the believers\, passed away on this day in the 
+ year 619 AD in Mecca\, Saudi Arabia.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Wafaat Hazrat Khadija-tul-Kubra (S.A.)
+DESCRIPTION:Reminder: Demise of Hazrat Khadija-tul-Kubra (S.A.) - Descript
+ ion: Hazrat Khadija-tul-Kubra (S.A.)\, the first wife of Prophet Muhammad 
+ (S.A.W.) and the mother of the believers\, passed away on this day in the 
+ year 619 AD in Mecca\, Saudi Arabia.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Viladat Imam Hassan (A.S.)
+SUMMARY:Birth of Imam Hassan ibn Ali (A.S.) - Description: Imam Hassan ibn
+  Ali (A.S.)\, the second Imam of the Shia Muslims and the grandson of Prop
+ het Muhammad (S.A.W.)\, was born on this day in the year 625 AD in Medina\
+ , Saudi Arabia.
 DTSTART;VALUE=DATE:20240325
 DTEND;VALUE=DATE:20240325
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Viladat Imam Hassan (A.S.)
+DESCRIPTION:Reminder: Birth of Imam Hassan ibn Ali (A.S.) - Description: I
+ mam Hassan ibn Ali (A.S.)\, the second Imam of the Shia Muslims and the gr
+ andson of Prophet Muhammad (S.A.W.)\, was born on this day in the year 625
+  AD in Medina\, Saudi Arabia.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Viladat Imam Hassan (A.S.)
+DESCRIPTION:Reminder: Birth of Imam Hassan ibn Ali (A.S.) - Description: I
+ mam Hassan ibn Ali (A.S.)\, the second Imam of the Shia Muslims and the gr
+ andson of Prophet Muhammad (S.A.W.)\, was born on this day in the year 625
+  AD in Medina\, Saudi Arabia.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shab-e-Zarbat Amirul Momineen Ali (A.S.)
+SUMMARY:Demise of Sayyidah Aisha bint Abi Bakr (RA) - Description: Sayyida
+ h Aisha bint Abi Bakr (RA)\, the wife of Prophet Muhammad (S.A.W.) and a p
+ rominent figure in Islamic history\, passed away on this day in the year 6
+ 78 AD in Medina\, Saudi Arabia.
+DTSTART;VALUE=DATE:20240327
+DTEND;VALUE=DATE:20240327
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Demise of Sayyidah Aisha bint Abi Bakr (RA) - Descri
+ ption: Sayyidah Aisha bint Abi Bakr (RA)\, the wife of Prophet Muhammad (S
+ .A.W.) and a prominent figure in Islamic history\, passed away on this day
+  in the year 678 AD in Medina\, Saudi Arabia.
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Demise of Sayyidah Aisha bint Abi Bakr (RA) - Descri
+ ption: Sayyidah Aisha bint Abi Bakr (RA)\, the wife of Prophet Muhammad (S
+ .A.W.) and a prominent figure in Islamic history\, passed away on this day
+  in the year 678 AD in Medina\, Saudi Arabia.
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Night of the Strike of Commander of the Faithful\, Ali (A.S.) - De
+ scription: On this night\, Imam Ali ibn Abi Talib (A.S.)\, the first Imam 
+ of the Shia Muslims and the fourth Caliph of the Sunni Muslims\, was struc
+ k by a poisoned sword while praying in the mosque of Kufa\, Iraq.
 DTSTART;VALUE=DATE:20240328
 DTEND;VALUE=DATE:20240328
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shab-e-Zarbat Amirul Momineen Ali (A.S.)
+DESCRIPTION:Reminder: Night of the Strike of Commander of the Faithful\, A
+ li (A.S.) - Description: On this night\, Imam Ali ibn Abi Talib (A.S.)\, t
+ he first Imam of the Shia Muslims and the fourth Caliph of the Sunni Musli
+ ms\, was struck by a poisoned sword while praying in the mosque of Kufa\, 
+ Iraq.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shab-e-Zarbat Amirul Momineen Ali (A.S.)
+DESCRIPTION:Reminder: Night of the Strike of Commander of the Faithful\, A
+ li (A.S.) - Description: On this night\, Imam Ali ibn Abi Talib (A.S.)\, t
+ he first Imam of the Shia Muslims and the fourth Caliph of the Sunni Musli
+ ms\, was struck by a poisoned sword while praying in the mosque of Kufa\, 
+ Iraq.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shahadat Amirul Momineen Ali (A.S.)
+SUMMARY:Martyrdom of Commander of the Faithful\, Ali (A.S.) - Description:
+  Imam Ali ibn Abi Talib (A.S.) succumbed to his injuries and was martyred 
+ on this day in the year 661 AD in Kufa\, Iraq.
 DTSTART;VALUE=DATE:20240331
 DTEND;VALUE=DATE:20240331
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shahadat Amirul Momineen Ali (A.S.)
+DESCRIPTION:Reminder: Martyrdom of Commander of the Faithful\, Ali (A.S.) 
+ - Description: Imam Ali ibn Abi Talib (A.S.) succumbed to his injuries and
+  was martyred on this day in the year 661 AD in Kufa\, Iraq.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shahadat Amirul Momineen Ali (A.S.)
+DESCRIPTION:Reminder: Martyrdom of Commander of the Faithful\, Ali (A.S.) 
+ - Description: Imam Ali ibn Abi Talib (A.S.) succumbed to his injuries and
+  was martyred on this day in the year 661 AD in Kufa\, Iraq.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shab-e-Qadar (Revelation of Quran)
+SUMMARY:Nights of Qadr (Revelation of Quran) - Description: These nights a
+ re observed as the Nights of Qadr\, during which the Quran was revealed to
+  Prophet Muhammad (S.A.W.). They are considered the holiest nights in the 
+ Islamic calendar.
 DTSTART;VALUE=DATE:20240329
 DTEND;VALUE=DATE:20240329
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shab-e-Qadar (Revelation of Quran)
+DESCRIPTION:Reminder: Nights of Qadr (Revelation of Quran) - Description: 
+ These nights are observed as the Nights of Qadr\, during which the Quran w
+ as revealed to Prophet Muhammad (S.A.W.). They are considered the holiest 
+ nights in the Islamic calendar.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shab-e-Qadar (Revelation of Quran)
+DESCRIPTION:Reminder: Nights of Qadr (Revelation of Quran) - Description: 
+ These nights are observed as the Nights of Qadr\, during which the Quran w
+ as revealed to Prophet Muhammad (S.A.W.). They are considered the holiest 
+ nights in the Islamic calendar.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shab-e-Qadar (Revelation of Quran)
+SUMMARY:Nights of Qadr (Revelation of Quran) - Description: These nights a
+ re observed as the Nights of Qadr\, during which the Quran was revealed to
+  Prophet Muhammad (S.A.W.). They are considered the holiest nights in the 
+ Islamic calendar.
 DTSTART;VALUE=DATE:20240331
 DTEND;VALUE=DATE:20240331
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shab-e-Qadar (Revelation of Quran)
+DESCRIPTION:Reminder: Nights of Qadr (Revelation of Quran) - Description: 
+ These nights are observed as the Nights of Qadr\, during which the Quran w
+ as revealed to Prophet Muhammad (S.A.W.). They are considered the holiest 
+ nights in the Islamic calendar.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shab-e-Qadar (Revelation of Quran)
+DESCRIPTION:Reminder: Nights of Qadr (Revelation of Quran) - Description: 
+ These nights are observed as the Nights of Qadr\, during which the Quran w
+ as revealed to Prophet Muhammad (S.A.W.). They are considered the holiest 
+ nights in the Islamic calendar.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shab-e-Qadar (Revelation of Quran)
+SUMMARY:Nights of Qadr (Revelation of Quran) - Description: These nights a
+ re observed as the Nights of Qadr\, during which the Quran was revealed to
+  Prophet Muhammad (S.A.W.). They are considered the holiest nights in the 
+ Islamic calendar.
 DTSTART;VALUE=DATE:20240402
 DTEND;VALUE=DATE:20240402
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shab-e-Qadar (Revelation of Quran)
+DESCRIPTION:Reminder: Nights of Qadr (Revelation of Quran) - Description: 
+ These nights are observed as the Nights of Qadr\, during which the Quran w
+ as revealed to Prophet Muhammad (S.A.W.). They are considered the holiest 
+ nights in the Islamic calendar.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shab-e-Qadar (Revelation of Quran)
+DESCRIPTION:Reminder: Nights of Qadr (Revelation of Quran) - Description: 
+ These nights are observed as the Nights of Qadr\, during which the Quran w
+ as revealed to Prophet Muhammad (S.A.W.). They are considered the holiest 
+ nights in the Islamic calendar.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shab-e-Qadar (Revelation of Quran)
+SUMMARY:Nights of Qadr (Revelation of Quran) - Description: These nights a
+ re observed as the Nights of Qadr\, during which the Quran was revealed to
+  Prophet Muhammad (S.A.W.). They are considered the holiest nights in the 
+ Islamic calendar.
 DTSTART;VALUE=DATE:20240404
 DTEND;VALUE=DATE:20240404
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shab-e-Qadar (Revelation of Quran)
+DESCRIPTION:Reminder: Nights of Qadr (Revelation of Quran) - Description: 
+ These nights are observed as the Nights of Qadr\, during which the Quran w
+ as revealed to Prophet Muhammad (S.A.W.). They are considered the holiest 
+ nights in the Islamic calendar.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shab-e-Qadar (Revelation of Quran)
+DESCRIPTION:Reminder: Nights of Qadr (Revelation of Quran) - Description: 
+ These nights are observed as the Nights of Qadr\, during which the Quran w
+ as revealed to Prophet Muhammad (S.A.W.). They are considered the holiest 
+ nights in the Islamic calendar.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shab-e-Qadar (Revelation of Quran)
+SUMMARY:Nights of Qadr (Revelation of Quran) - Description: These nights a
+ re observed as the Nights of Qadr\, during which the Quran was revealed to
+  Prophet Muhammad (S.A.W.). They are considered the holiest nights in the 
+ Islamic calendar.
 DTSTART;VALUE=DATE:20240406
 DTEND;VALUE=DATE:20240406
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shab-e-Qadar (Revelation of Quran)
+DESCRIPTION:Reminder: Nights of Qadr (Revelation of Quran) - Description: 
+ These nights are observed as the Nights of Qadr\, during which the Quran w
+ as revealed to Prophet Muhammad (S.A.W.). They are considered the holiest 
+ nights in the Islamic calendar.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shab-e-Qadar (Revelation of Quran)
+DESCRIPTION:Reminder: Nights of Qadr (Revelation of Quran) - Description: 
+ These nights are observed as the Nights of Qadr\, during which the Quran w
+ as revealed to Prophet Muhammad (S.A.W.). They are considered the holiest 
+ nights in the Islamic calendar.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eid al Fitr
+SUMMARY:Eid al-Fitr - Description: Eid al-Fitr is the festival celebrated 
+ by Muslims worldwide to mark the end of the month of Ramadan and the begin
+ ning of Shawwal.
 DTSTART;VALUE=DATE:20240410
 DTEND;VALUE=DATE:20240410
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Eid al Fitr
+DESCRIPTION:Reminder: Eid al-Fitr - Description: Eid al-Fitr is the festiv
+ al celebrated by Muslims worldwide to mark the end of the month of Ramadan
+  and the beginning of Shawwal.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Eid al Fitr
+DESCRIPTION:Reminder: Eid al-Fitr - Description: Eid al-Fitr is the festiv
+ al celebrated by Muslims worldwide to mark the end of the month of Ramadan
+  and the beginning of Shawwal.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Janat-ul-Baqi Day
-DTSTART;VALUE=DATE:20240417
-DTEND;VALUE=DATE:20240417
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Janat-ul-Baqi Day
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder: Janat-ul-Baqi Day
-TRIGGER:-PT12H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shahadat Imam Jafare Sadiq (A.S.)
+SUMMARY:Martyrdom of Imam Jafar al-Sadiq (A.S.) - Description: Imam Jafar 
+ al-Sadiq (A.S.)\, the sixth Imam of the Shia Muslims and a descendant of P
+ rophet Muhammad (S.A.W.)\, was martyred on this day in the year 148 AH in 
+ Medina\, Saudi Arabia.
 DTSTART;VALUE=DATE:20240424
 DTEND;VALUE=DATE:20240424
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shahadat Imam Jafare Sadiq (A.S.)
+DESCRIPTION:Reminder: Martyrdom of Imam Jafar al-Sadiq (A.S.) - Descriptio
+ n: Imam Jafar al-Sadiq (A.S.)\, the sixth Imam of the Shia Muslims and a d
+ escendant of Prophet Muhammad (S.A.W.)\, was martyred on this day in the y
+ ear 148 AH in Medina\, Saudi Arabia.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shahadat Imam Jafare Sadiq (A.S.)
+DESCRIPTION:Reminder: Martyrdom of Imam Jafar al-Sadiq (A.S.) - Descriptio
+ n: Imam Jafar al-Sadiq (A.S.)\, the sixth Imam of the Shia Muslims and a d
+ escendant of Prophet Muhammad (S.A.W.)\, was martyred on this day in the y
+ ear 148 AH in Medina\, Saudi Arabia.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wafaat Janabe Fatima Binte Asad
+SUMMARY:Demise of Lady Fatima bint Asad - Description: Lady Fatima bint As
+ ad\, the mother of Imam Ali (A.S.) and a respected figure in Islamic histo
+ ry\, passed away on this day in Medina\, Saudi Arabia.
 DTSTART;VALUE=DATE:20240509
 DTEND;VALUE=DATE:20240509
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Wafaat Janabe Fatima Binte Asad
+DESCRIPTION:Reminder: Demise of Lady Fatima bint Asad - Description: Lady 
+ Fatima bint Asad\, the mother of Imam Ali (A.S.) and a respected figure in
+  Islamic history\, passed away on this day in Medina\, Saudi Arabia.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Wafaat Janabe Fatima Binte Asad
+DESCRIPTION:Reminder: Demise of Lady Fatima bint Asad - Description: Lady 
+ Fatima bint Asad\, the mother of Imam Ali (A.S.) and a respected figure in
+  Islamic history\, passed away on this day in Medina\, Saudi Arabia.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Viladat Imam Ali Reza (A.S.)
+SUMMARY:Birth of Imam Ali ibn Musa al-Reza (A.S.) - Description: Imam Ali 
+ ibn Musa al-Reza (A.S.)\, the eighth Imam of the Shia Muslims and a descen
+ dant of Prophet Muhammad (S.A.W.)\, was born on this day in the year 148 A
+ H in Medina\, Saudi Arabia.
 DTSTART;VALUE=DATE:20240519
 DTEND;VALUE=DATE:20240519
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Viladat Imam Ali Reza (A.S.)
+DESCRIPTION:Reminder: Birth of Imam Ali ibn Musa al-Reza (A.S.) - Descript
+ ion: Imam Ali ibn Musa al-Reza (A.S.)\, the eighth Imam of the Shia Muslim
+ s and a descendant of Prophet Muhammad (S.A.W.)\, was born on this day in 
+ the year 148 AH in Medina\, Saudi Arabia.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Viladat Imam Ali Reza (A.S.)
+DESCRIPTION:Reminder: Birth of Imam Ali ibn Musa al-Reza (A.S.) - Descript
+ ion: Imam Ali ibn Musa al-Reza (A.S.)\, the eighth Imam of the Shia Muslim
+ s and a descendant of Prophet Muhammad (S.A.W.)\, was born on this day in 
+ the year 148 AH in Medina\, Saudi Arabia.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shahadat Imam Mohammed Taqi (A.S.)
+SUMMARY:Martyrdom of Imam Muhammad al-Taqi (A.S.) - Description: Imam Muha
+ mmad al-Taqi (A.S.)\, the ninth Imam of the Shia Muslims and a descendant 
+ of Prophet Muhammad (S.A.W.)\, was martyred on this day in the year 220 AH
+  in Baghdad\, Iraq.
 DTSTART;VALUE=DATE:20240606
 DTEND;VALUE=DATE:20240606
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shahadat Imam Mohammed Taqi (A.S.)
+DESCRIPTION:Reminder: Martyrdom of Imam Muhammad al-Taqi (A.S.) - Descript
+ ion: Imam Muhammad al-Taqi (A.S.)\, the ninth Imam of the Shia Muslims and
+  a descendant of Prophet Muhammad (S.A.W.)\, was martyred on this day in t
+ he year 220 AH in Baghdad\, Iraq.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shahadat Imam Mohammed Taqi (A.S.)
+DESCRIPTION:Reminder: Martyrdom of Imam Muhammad al-Taqi (A.S.) - Descript
+ ion: Imam Muhammad al-Taqi (A.S.)\, the ninth Imam of the Shia Muslims and
+  a descendant of Prophet Muhammad (S.A.W.)\, was martyred on this day in t
+ he year 220 AH in Baghdad\, Iraq.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Marriage of Hazrat Fatima Zehra (S.A.) & Hazrat Ali (A.S.)
+SUMMARY:Marriage of Lady Fatima Zahra (S.A.) & Commander of the Faithful\,
+  Ali (A.S.) - Description: The marriage of Lady Fatima Zahra (S.A.)\, the 
+ daughter of Prophet Muhammad (S.A.W.)\, and Imam Ali ibn Abi Talib (A.S.)\
+ , the first Imam of the Shia Muslims\, took place on this day.
 DTSTART;VALUE=DATE:20240607
 DTEND;VALUE=DATE:20240607
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Marriage of Hazrat Fatima Zehra (S.A.) & Hazrat Ali 
- (A.S.)
+DESCRIPTION:Reminder: Marriage of Lady Fatima Zahra (S.A.) & Commander of 
+ the Faithful\, Ali (A.S.) - Description: The marriage of Lady Fatima Zahra
+  (S.A.)\, the daughter of Prophet Muhammad (S.A.W.)\, and Imam Ali ibn Abi
+  Talib (A.S.)\, the first Imam of the Shia Muslims\, took place on this da
+ y.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Marriage of Hazrat Fatima Zehra (S.A.) & Hazrat Ali 
- (A.S.)
+DESCRIPTION:Reminder: Marriage of Lady Fatima Zahra (S.A.) & Commander of 
+ the Faithful\, Ali (A.S.) - Description: The marriage of Lady Fatima Zahra
+  (S.A.)\, the daughter of Prophet Muhammad (S.A.W.)\, and Imam Ali ibn Abi
+  Talib (A.S.)\, the first Imam of the Shia Muslims\, took place on this da
+ y.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shahadat Imam Mohammed Baqir (A.S.)
+SUMMARY:Martyrdom of Imam Muhammad al-Baqir (A.S.) - Description: Imam Muh
+ ammad al-Baqir (A.S.)\, the fifth Imam of the Shia Muslims and a descendan
+ t of Prophet Muhammad (S.A.W.)\, was martyred on this day in the year 114 
+ AH in Medina\, Saudi Arabia.
 DTSTART;VALUE=DATE:20240613
 DTEND;VALUE=DATE:20240613
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shahadat Imam Mohammed Baqir (A.S.)
+DESCRIPTION:Reminder: Martyrdom of Imam Muhammad al-Baqir (A.S.) - Descrip
+ tion: Imam Muhammad al-Baqir (A.S.)\, the fifth Imam of the Shia Muslims a
+ nd a descendant of Prophet Muhammad (S.A.W.)\, was martyred on this day in
+  the year 114 AH in Medina\, Saudi Arabia.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shahadat Imam Mohammed Baqir (A.S.)
+DESCRIPTION:Reminder: Martyrdom of Imam Muhammad al-Baqir (A.S.) - Descrip
+ tion: Imam Muhammad al-Baqir (A.S.)\, the fifth Imam of the Shia Muslims a
+ nd a descendant of Prophet Muhammad (S.A.W.)\, was martyred on this day in
+  the year 114 AH in Medina\, Saudi Arabia.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hajj begins
+SUMMARY:Hajj begins - Description: The annual pilgrimage of Hajj\, one of 
+ the five pillars of Islam\, begins on this day in Mecca\, Saudi Arabia.
 DTSTART;VALUE=DATE:20240614
 DTEND;VALUE=DATE:20240614
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Hajj begins
+DESCRIPTION:Reminder: Hajj begins - Description: The annual pilgrimage of 
+ Hajj\, one of the five pillars of Islam\, begins on this day in Mecca\, Sa
+ udi Arabia.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Hajj begins
+DESCRIPTION:Reminder: Hajj begins - Description: The annual pilgrimage of 
+ Hajj\, one of the five pillars of Islam\, begins on this day in Mecca\, Sa
+ udi Arabia.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shahadat Muslim Ibne Aqil (A.S.)
+SUMMARY:Martyrdom of Muslim ibn Aqil (A.S.) - Description: Muslim ibn Aqil
+  (A.S.)\, the cousin and emissary of Imam Hussain (A.S.)\, was martyred on
+  this day in the year 60 AH in Kufa\, Iraq.
 DTSTART;VALUE=DATE:20240615
 DTEND;VALUE=DATE:20240615
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shahadat Muslim Ibne Aqil (A.S.)
+DESCRIPTION:Reminder: Martyrdom of Muslim ibn Aqil (A.S.) - Description: M
+ uslim ibn Aqil (A.S.)\, the cousin and emissary of Imam Hussain (A.S.)\, w
+ as martyred on this day in the year 60 AH in Kufa\, Iraq.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shahadat Muslim Ibne Aqil (A.S.)
+DESCRIPTION:Reminder: Martyrdom of Muslim ibn Aqil (A.S.) - Description: M
+ uslim ibn Aqil (A.S.)\, the cousin and emissary of Imam Hussain (A.S.)\, w
+ as martyred on this day in the year 60 AH in Kufa\, Iraq.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eid al Adha
+SUMMARY:Eid al-Adha - Description: Eid al-Adha\, also known as the Festiva
+ l of Sacrifice\, is celebrated by Muslims worldwide on this day\, commemor
+ ating the willingness of Prophet Ibrahim (A.S.) to sacrifice his son as an
+  act of obedience to God.
 DTSTART;VALUE=DATE:20240616
 DTEND;VALUE=DATE:20240616
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Eid al Adha
+DESCRIPTION:Reminder: Eid al-Adha - Description: Eid al-Adha\, also known 
+ as the Festival of Sacrifice\, is celebrated by Muslims worldwide on this 
+ day\, commemorating the willingness of Prophet Ibrahim (A.S.) to sacrifice
+  his son as an act of obedience to God.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Eid al Adha
+DESCRIPTION:Reminder: Eid al-Adha - Description: Eid al-Adha\, also known 
+ as the Festival of Sacrifice\, is celebrated by Muslims worldwide on this 
+ day\, commemorating the willingness of Prophet Ibrahim (A.S.) to sacrifice
+  his son as an act of obedience to God.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Viladat Imam Ali Naqi (A.S.)
+SUMMARY:Birth of Imam Ali al-Naqi (A.S.) - Description: Imam Ali al-Naqi (
+ A.S.)\, the tenth Imam of the Shia Muslims and a descendant of Prophet Muh
+ ammad (S.A.W.)\, was born on this day in the year 212 AH in Medina\, Saudi
+  Arabia.
 DTSTART;VALUE=DATE:20240621
 DTEND;VALUE=DATE:20240621
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Viladat Imam Ali Naqi (A.S.)
+DESCRIPTION:Reminder: Birth of Imam Ali al-Naqi (A.S.) - Description: Imam
+  Ali al-Naqi (A.S.)\, the tenth Imam of the Shia Muslims and a descendant 
+ of Prophet Muhammad (S.A.W.)\, was born on this day in the year 212 AH in 
+ Medina\, Saudi Arabia.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Viladat Imam Ali Naqi (A.S.)
+DESCRIPTION:Reminder: Birth of Imam Ali al-Naqi (A.S.) - Description: Imam
+  Ali al-Naqi (A.S.)\, the tenth Imam of the Shia Muslims and a descendant 
+ of Prophet Muhammad (S.A.W.)\, was born on this day in the year 212 AH in 
+ Medina\, Saudi Arabia.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shahadat Janabe Zainab (A.S.)
+SUMMARY:Martyrdom of Lady Zainab bint Ali (A.S.) - Description: Lady Zaina
+ b bint Ali (A.S.)\, the daughter of Imam Ali (A.S.) and the granddaughter 
+ of Prophet Muhammad (S.A.W.)\, is believed to have been martyred on this d
+ ay.
 DTSTART;VALUE=DATE:20240622
 DTEND;VALUE=DATE:20240622
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shahadat Janabe Zainab (A.S.)
+DESCRIPTION:Reminder: Martyrdom of Lady Zainab bint Ali (A.S.) - Descripti
+ on: Lady Zainab bint Ali (A.S.)\, the daughter of Imam Ali (A.S.) and the 
+ granddaughter of Prophet Muhammad (S.A.W.)\, is believed to have been mart
+ yred on this day.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shahadat Janabe Zainab (A.S.)
+DESCRIPTION:Reminder: Martyrdom of Lady Zainab bint Ali (A.S.) - Descripti
+ on: Lady Zainab bint Ali (A.S.)\, the daughter of Imam Ali (A.S.) and the 
+ granddaughter of Prophet Muhammad (S.A.W.)\, is believed to have been mart
+ yred on this day.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ide Ghadir
+SUMMARY:Eid al-Ghadir - Description: Eid al-Ghadir is celebrated by Shia M
+ uslims to commemorate the event of Ghadir Khumm\, where Prophet Muhammad (
+ S.A.W.) declared Imam Ali (A.S.) as his successor.
 DTSTART;VALUE=DATE:20240624
 DTEND;VALUE=DATE:20240624
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Ide Ghadir
+DESCRIPTION:Reminder: Eid al-Ghadir - Description: Eid al-Ghadir is celebr
+ ated by Shia Muslims to commemorate the event of Ghadir Khumm\, where Prop
+ het Muhammad (S.A.W.) declared Imam Ali (A.S.) as his successor.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Ide Ghadir
+DESCRIPTION:Reminder: Eid al-Ghadir - Description: Eid al-Ghadir is celebr
+ ated by Shia Muslims to commemorate the event of Ghadir Khumm\, where Prop
+ het Muhammad (S.A.W.) declared Imam Ali (A.S.) as his successor.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shahadat Tiflaan-e Hazrat Muslim (A.S.)
+SUMMARY:Martyrdom of the Children of Hazrat Muslim ibn Aqil (A.S.) - Descr
+ iption: The children of Hazrat Muslim ibn Aqil (A.S.)\, who were martyred 
+ in the aftermath of their father’s death\, are remembered on this day.
 DTSTART;VALUE=DATE:20240628
 DTEND;VALUE=DATE:20240628
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shahadat Tiflaan-e Hazrat Muslim (A.S.)
+DESCRIPTION:Reminder: Martyrdom of the Children of Hazrat Muslim ibn Aqil 
+ (A.S.) - Description: The children of Hazrat Muslim ibn Aqil (A.S.)\, who 
+ were martyred in the aftermath of their father’s death\, are remembered 
+ on this day.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Shahadat Tiflaan-e Hazrat Muslim (A.S.)
+DESCRIPTION:Reminder: Martyrdom of the Children of Hazrat Muslim ibn Aqil 
+ (A.S.) - Description: The children of Hazrat Muslim ibn Aqil (A.S.)\, who 
+ were martyred in the aftermath of their father’s death\, are remembered 
+ on this day.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ide Mubahela
+SUMMARY:Eid al-Mubahela - Description: Eid al-Mubahela commemorates the ev
+ ent of Mubahela\, a public debate and invocation for divine curse to revea
+ l the truth\, which took place between Prophet Muhammad (S.A.W.) and a Chr
+ istian delegation from Najran.
 DTSTART;VALUE=DATE:20240630
 DTEND;VALUE=DATE:20240630
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Ide Mubahela
+DESCRIPTION:Reminder: Eid al-Mubahela - Description: Eid al-Mubahela comme
+ morates the event of Mubahela\, a public debate and invocation for divine 
+ curse to reveal the truth\, which took place between Prophet Muhammad (S.A
+ .W.) and a Christian delegation from Najran.
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Reminder: Ide Mubahela
+DESCRIPTION:Reminder: Eid al-Mubahela - Description: Eid al-Mubahela comme
+ morates the event of Mubahela\, a public debate and invocation for divine 
+ curse to reveal the truth\, which took place between Prophet Muhammad (S.A
+ .W.) and a Christian delegation from Najran.
 TRIGGER:-PT12H
 END:VALARM
 END:VEVENT
