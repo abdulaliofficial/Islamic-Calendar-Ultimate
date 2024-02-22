@@ -101,11 +101,12 @@ for islamic_date, event_name in events.items():
         # Convert Hijri to Gregorian
         gregorian_date = hijri_converter.convert.Hijri(1445, month, int(day)).to_gregorian()   
 
-        # Create an event
+       # Create an event
         event = Event()
         summary_description = event_name.split(' - ', 1)  # Split only once
         event.add('summary', islamic_date + ' - ' + summary_description[0])
-        event.add('description', summary_description[1] if len(summary_description) > 1 else '')
+        description_text = summary_description[1] if len(summary_description) > 1 else ''
+        event.add('description', description_text.replace('Description: ', ''))  # Remove "Description:" from the text
 
         # Add 24-hour reminder
         alarm_24hr = Alarm()
